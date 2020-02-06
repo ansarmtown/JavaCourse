@@ -1,0 +1,1 @@
+Insert into psycho (pid,pname)values(1,'mohindar'),(2,'mohindar2'),(3,'mohindar3')
